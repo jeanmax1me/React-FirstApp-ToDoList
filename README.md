@@ -18,19 +18,19 @@ It was a great introduction to React, it looks quite complicated but I'm sure wi
 
 Then, when the project was finished and I wanted to go through the normal process of distribution. The real issues arrived. Oh god. 
 
-I add to install and read the tutorial of Babel, to transpile my JSX React files to JS. 
+I had to install Babel first, to transpile my JSX React files to JS. 
 Did that. 
 It was not enough, I still had CommonJS syntax where I should have ESM or ES6.
 
 Had to research again what is the issue, turns out I have to install a bundler, chose Rollup. 
-Then also add to install Node-Resolve and PostCSS.
-Finally worked out thanks to ChatGPT and Google a rollup config, vite config, babel config (especially the rollup one) that did the job. So here is the full JS in ./assets
+Then also had to install Node-Resolve and PostCSS.
+Finally worked out thanks to ChatGPT and Google a rollup config and babel config (especially the rollup one) that did the job. So here it is , finally deployed! 
 
 I uploaded the rollup and babel config as it was really the hardest part of all of this.
 
-React tutorial = 2 hours
+React tutorial = 3 hours
 
 Deploying the React tutorial to Github pages = 8 hours 
 
-lol 
+lol, 
 I learned a lot about deployement at least 
