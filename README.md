@@ -25,5 +25,7 @@ Finally worked out thanks to ChatGPT and Google a rollup config, vite config, ba
 I uploaded the rollup config as it was really the hardest part of all of this.
 
 React tutorial = 2 hours
+
 Deploying the React tutorial to Github pages = 8 hours 
+
 lol 
